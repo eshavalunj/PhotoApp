@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PhotoApp</string>
+    <string name="capture_strip">Capture Strip</string>
+    <string name="pick_from_gallery">Pick from Gallery</string>
+    <string name="share">Share</string>
+    <string name="photo_slot">Photo slot</string>
+
+</resources>
